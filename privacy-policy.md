@@ -1,6 +1,6 @@
-<h1>Privacy Policy for ChuoMall</h1>
+<h1>Privacy Policy for TukeSolutions</h1>
 
-<p>At ChuoMall, accessible from www.chuomall.xyz, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ChuoMall and how we use it.</p>
+<p>At TuksimSolutions, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ChuoMall and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
